@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_ID: 1
+  Number_of_items: 1
+  Price: 9.99
+  Discount: 9.99
+  General_description: MyString
+
+two:
+  customer_ID: 1
+  Number_of_items: 1
+  Price: 9.99
+  Discount: 9.99
+  General_description: MyString
